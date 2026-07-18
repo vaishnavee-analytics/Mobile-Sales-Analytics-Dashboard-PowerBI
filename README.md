@@ -1,2 +1,3 @@
-# Mobile-Sales-Analytics-Dashboard-PowerBI
-Interactive Mobile Sales Analytics Dashboard built using Microsoft Power BI.
+# 📱 Mobile Sales Analytics Dashboard (Power BI)
+
+This repository contains an interactive Mobile Sales Analytics Dashboard developed using Microsoft Power BI.
